@@ -1,7 +1,5 @@
 # marcustrigell.github.io
 
-Personal webpage for Marcus Trigell
+Test page for various projects
 
-**Don't mind the code** as it is mostly used as a playground of sorts!
-
-[Link to my LinkedIn] (https://se.linkedin.com/pub/marcus-trigell/6b/b92/127)
+**Don't mind the code**
