@@ -21,7 +21,6 @@
 
 <body ng-app>
 
-    <!-- Adding the ng-app declaration to initialize AngularJS -->
     <div id="main">
         <!-- The navigation menu will get the value of the "active" variable as a class.
              The $event.preventDefault() stops the page from jumping when a link is clicked. -->
@@ -40,7 +39,14 @@
             initially, this will cause the first paragraph to be visible. -->
 
         <p ng-hide="active">Please click a menu item</p>
-        <p ng-show="active">You chose <b>{{active}}</b></p>
+        <div ng-show="active">
+            <p>
+                
+                <!-- TODO -->
+                <b>{{active}}</b>
+
+            </p>
+        </div>
     </div>
 
     <!-- Bootstrap Core JavaScript -->
