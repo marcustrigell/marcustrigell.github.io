@@ -1,3 +1,3 @@
 # marcustrigell.github.io
 
-Hobby-page for various projects for now
+Personal web-page for myself and everything related to Software Engineering.
